@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bebtelovimab/static/css/main.3b214869.css",
-    "main.js": "/bebtelovimab/static/js/main.75de3ead.js",
+    "main.js": "/bebtelovimab/static/js/main.6f04072a.js",
     "static/js/787.a8e5a8b6.chunk.js": "/bebtelovimab/static/js/787.a8e5a8b6.chunk.js",
     "index.html": "/bebtelovimab/index.html",
     "main.3b214869.css.map": "/bebtelovimab/static/css/main.3b214869.css.map",
-    "main.75de3ead.js.map": "/bebtelovimab/static/js/main.75de3ead.js.map",
+    "main.6f04072a.js.map": "/bebtelovimab/static/js/main.6f04072a.js.map",
     "787.a8e5a8b6.chunk.js.map": "/bebtelovimab/static/js/787.a8e5a8b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b214869.css",
-    "static/js/main.75de3ead.js"
+    "static/js/main.6f04072a.js"
   ]
 }
